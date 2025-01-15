@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Binayak100, the visionary behind innovative tech solutions and aspiring CEO of my own software company.
+- 👋 Hi, I’m @Binayak100, the visionary behind innovative tech solutions and aspiring Data Scientist.
 - 👀 I’m interested in revolutionizing industries with AI, data-driven decision-making, and impactful software solutions.
-- 🌱 I’m currently learning advanced Python, machine learning, data analytics, and entrepreneurship to prepare for launching my company.
+- 🌱 I’m currently learning advanced Python, machine learning, data analytics, and entrepreneurship.
 - 💞️ I’m looking to collaborate on projects that push the boundaries of technology and create lasting value.
 - 📫 How to reach me: binayaklamichhane66@gmail.com
 - 😄 Pronouns: He/Him
